@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\bin\Debug\acceso_directo.exe.config
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\bin\Debug\acceso_directo.exe
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\bin\Debug\acceso_directo.pdb
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.Form1.resources
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.Properties.Resources.resources
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.exe
+C:\Users\jesus\source\repos\acceso_directo\acceso_directo\obj\Debug\acceso_directo.pdb
